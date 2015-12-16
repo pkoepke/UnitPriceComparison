@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unit Price Comparison</string>
+    <string name="Item_1_text">Item 1</string>
+    <string name="Item_2_text">Item 2</string>
+    <string name="Item_3_text">Item 3</string>
+    <string name="Item_4_text">Item 4</string>
+    <string name="Item_5_text">Item 5</string>
+    <string name="Item_6_text">Item 6</string>
+    <string name="Price_field_hint">Price</string>
+    <string name="Units_field_hint">Units</string>
+    <string name="Item_name_field_hint">Item name</string>
+    <string name="Units_name_field_hint">Unit name</string>
+    <string name="Price_Per_Units_Hint">/unit</string>
+    <string name="clear_all_button_label">Clear all</string>
+    <string name="settings_menu_label">Settings</string>
+    <string name="clear_all_labels">Clear labels</string>
+    <string name="clear_all_numbers">Clear numbers</string>
+    <string name="debug_TextView_text" translatable="false"></string>
+    <string name="qty_hint">Qty</string>
+    <string name="Expand_second_row">Expand second row</string>
+
+</resources>

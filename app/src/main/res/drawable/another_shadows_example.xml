@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- From here: http://stackoverflow.com/a/19529651/3784441 -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Layer 0 -->
+    <!-- Layer 1 -->
+    <!-- Layer 2 -->
+    <!-- Layer 3 -->
+    <!-- Layer 4 (content background) -->
+
+
+    <!-- dropshadow -->
+    <item>
+        <shape>
+            <gradient
+                android:angle="180"
+                android:centerColor="#10CCCCCC"
+                android:endColor="@color/PureWhite"
+                android:startColor="@color/PureWhite" />
+
+            <padding
+                android:bottom="2dp"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:angle="180"
+                android:centerColor="#20CCCCCC"
+                android:endColor="@color/PureWhite"
+                android:startColor="@color/PureWhite" />
+
+            <padding
+                android:bottom="2dp"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:angle="180"
+                android:centerColor="#30CCCCCC"
+                android:endColor="@color/PureWhite"
+                android:startColor="@color/PureWhite" />
+
+            <padding
+                android:bottom="2dp"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:angle="180"
+                android:centerColor="#40CCCCCC"
+                android:endColor="@color/PureWhite"
+                android:startColor="@color/PureWhite" />
+
+            <padding
+                android:bottom="2dp"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:angle="180"
+                android:centerColor="#50CCCCCC"
+                android:endColor="@color/PureWhite"
+                android:startColor="@color/PureWhite" />
+
+            <padding
+                android:bottom="2dp"
+                android:left="0dp"
+                android:right="0dp"
+                android:top="0dp" />
+        </shape>
+    </item>
+
+    <!-- content background -->
+    <item>
+        <shape>
+            <solid android:color="@color/PureWhite" />
+        </shape>
+    </item>
+
+</layer-list>

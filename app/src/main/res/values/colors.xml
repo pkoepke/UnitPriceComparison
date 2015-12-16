@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <color name="ActionBarBackground">#003FD1</color>
+    <color name="PureWhite">#FFFFFF</color>
+    <color name="DukeBlue">#001A57</color>
+    <color name="BaseMediumBlue">#0044E2</color>
+    <color name="LightBlue">#D6E0F8</color>
+    <color name="MediumBlue">#2E6CFC</color>
+    <color name="DarkBlue">#002985</color>
+    <color name="NearlyBlack">#00030A</color>
+    <color name="GreenHighlight">#1ECF7A</color>
+    <color name="PlusTenGreenHighlight">#17B468</color>
+    <color name="OriginalGreenHighlight">#0F9D58</color>
+</resources>

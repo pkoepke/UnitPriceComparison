@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- http://stackoverflow.com/a/5993153/3784441 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+   <shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <!-- Specify background color -->
+    <solid android:color="@color/LightBlue" />
+
+    <!-- Specify border -->
+    <!-- <stroke
+        android:width="2dp"
+        android:color="@android:color/darker_gray" />  -->
+
+</shape>
+</item>
+</selector>

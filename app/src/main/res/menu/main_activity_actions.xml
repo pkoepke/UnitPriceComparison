@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.paulkoepke.UnitPriceComparison.MainActivity" >
+
+    <!-- <item
+        android:id="@+id/Settings"
+        android:showAsAction="never"
+        android:title="@string/settings_menu_label"/> -->
+    
+    <item
+        android:id="@+id/Clear_all"
+        android:icon="@drawable/clear_all_icon_third_paint"
+        android:title="@string/clear_all_button_label" 
+        android:showAsAction="always" />
+    
+    <item
+        android:id="@+id/Expand_second_row"
+        android:icon="@drawable/ic_action_expand_white"
+        android:title="@string/Expand_second_row" 
+        android:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="UnitPriceComparisonTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/UnitPriceComparisonTheme.ActionBar</item>
+    </style>
+    <style name="UnitPriceComparisonTheme.ActionBar" parent="android:Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/BaseMediumBlue</item>
+        <item name="android:titleTextStyle">@style/UnitPriceComparisonTheme.ActionBar.TitleTextStyle</item>
+    </style>
+    <style name="UnitPriceComparisonTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/PureWhite</item>
+    </style>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ActionBarBackground">#003FD1</color>
+    <color name="BaseMediumBlue">#0044E2</color>
+    <color name="DarkBlue">#002985</color>
+    <color name="DukeBlue">#001A57</color>
+    <color name="GreenHighlight">#1ECF7A</color>
+    <color name="LightBlue">#D6E0F8</color>
+    <color name="MediumBlue">#2E6CFC</color>
+    <color name="NearlyBlack">#00030A</color>
+    <color name="OriginalGreenHighlight">#0F9D58</color>
+    <color name="PlusTenGreenHighlight">#17B468</color>
+    <color name="PureWhite">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <string name="Expand_second_row">Expand second row</string>
+    <string name="Item_1_text">Item 1</string>
+    <string name="Item_2_text">Item 2</string>
+    <string name="Item_3_text">Item 3</string>
+    <string name="Item_4_text">Item 4</string>
+    <string name="Item_5_text">Item 5</string>
+    <string name="Item_6_text">Item 6</string>
+    <string name="Item_name_field_hint">Item name</string>
+    <string name="Price_Per_Units_Hint">/unit</string>
+    <string name="Price_field_hint">Price</string>
+    <string name="Units_field_hint">Units</string>
+    <string name="Units_name_field_hint">Unit name</string>
+    <string name="app_name">Unit Price Comparison</string>
+    <string name="clear_all_button_label">Clear all</string>
+    <string name="clear_all_labels">Clear labels</string>
+    <string name="clear_all_numbers">Clear numbers</string>
+    <string name="debug_TextView_text" translatable="false"/>
+    <string name="qty_hint">Qty</string>
+    <string name="settings_menu_label">Settings</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="WhiteText" parent="@android:style/TextAppearance.Medium">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
