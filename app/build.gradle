@@ -7,6 +7,8 @@ android {
         applicationId "com.paulkoepke.unitpricecomparison"
         minSdkVersion 17
         targetSdkVersion 30
+        versionCode 207
+        versionName "2.0.7"
     }
 
     buildTypes {
